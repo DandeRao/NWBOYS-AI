@@ -1,0 +1,19 @@
+--------------START 03/28/2025
+
+
+Exercises
+1. Build one AI Agent to connect to DB and run sql and summarize
+2. Build one AI agent to read PDF and summarize
+3. Build one AI agent to read PDF and summarize
+
+
+To Know:
+Vector DB
+How to run LLMs and Agents in local
+
+
+Questions for ChatGPT
+* hey Gemini, how can I run LLM and AI agents in local
+
+
+---------------END 03/28/2025
